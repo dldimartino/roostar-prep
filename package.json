@@ -1,0 +1,26 @@
+{
+  "name": "roostar",
+  "version": "1.0.0",
+  "description": "application to help find home sale comps in your area without using a real estate agent",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dldimartino/roostar.git"
+  },
+  "keywords": [
+    "realestate",
+    "house",
+    "sale",
+    "home",
+    "comp"
+  ],
+  "author": "Daniel DiMartino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dldimartino/roostar/issues"
+  },
+  "homepage": "https://github.com/dldimartino/roostar#readme"
+}
